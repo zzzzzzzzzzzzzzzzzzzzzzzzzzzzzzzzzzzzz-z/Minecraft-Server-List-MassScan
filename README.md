@@ -1,5 +1,5 @@
 # Minecraft-Server-List-MassScan
-Scanned the entire internet for 25565 Minecraft services.
+Scanned the entire internet for 25565 Minecraft services. This includes many private and community servers, fun to grief on. [Most probably does not have AC]
 
 
 # new.txt [LIST] 104699 Servers Listed
