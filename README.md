@@ -7,6 +7,7 @@ Scanned 0.0.0.0/0 for any open 25565/tcp and then scanned and logged any availab
 
 # Format
 IP | Info/Version | Players online
+
 69.69.69.69 1.12.2 6
 
 
