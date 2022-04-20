@@ -2,7 +2,7 @@
 Scanned the entire internet for 25565 Minecraft services.
 
 
-# new.txt [LIST]
+# new.txt [LIST] 104699 Servers Listed
 Scanned 0.0.0.0/0 for any open 25565/tcp and then scanned and logged any available minecraft servers.
 
 # Format
