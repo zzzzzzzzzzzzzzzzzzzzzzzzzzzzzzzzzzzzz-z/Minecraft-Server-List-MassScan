@@ -8,7 +8,7 @@ Scanned 0.0.0.0/0 for any open 25565/tcp and then scanned and logged any availab
 # Format
 IP | Info/Version | Players online
 
-69.69.69.69 1.12.2 6
+69.69.69.69 Spigot_1.18.2 6
 
 
 # Last Scanned
